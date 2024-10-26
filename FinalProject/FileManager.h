@@ -41,10 +41,6 @@ public:
 		FilesHelper::clearFile("Admins.txt", "AdminLastId.txt");
 	}
 
-	void atat() {
-   
-	}
-
 	 void getAllData() {
 		getAllClients();
 		getAllEmployees();
